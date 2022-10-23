@@ -27,4 +27,6 @@ References:
 
 - https://landscape.cncf.io/
 
+## 200 - Requirements
 
+- natural language processing (nlp) for node at https://www.npmjs.com/package/node-nlp
